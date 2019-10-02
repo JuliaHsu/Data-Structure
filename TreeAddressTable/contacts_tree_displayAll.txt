@@ -1,0 +1,135 @@
+1. Add a contact (a)
+2. Look up a contact (l)
+3. Update address (u)
+4. Delete a contact (d)
+5. Display all contacts (a)
+6. Save and exit (q)
+
+ENTER CHOICE: 5
+Alishia Sergi
+New york, New york
+     --- Node height = 0
+Bette Nicka
+Aston, Delaware
+     --- Node height = 5
+Brian Wilson
+Seattle, Washignton
+     --- Node height = 4
+Carma Vanheusen
+Nashville, Tennese
+     --- Node height = 2
+Danica Bruschke
+Alexandria, Virginia
+     --- Node height = 1
+Deeanna Juhas
+South Africa
+     --- Node height = 0
+Elvera Benimadho
+Rome, Italy
+     --- Node height = 3
+Genghis Khan
+Khentii Aimag, Mongolia
+     --- Node height = 10
+George West
+London, England
+     --- Node height = 0
+Helen Mirren
+London, England
+     --- Node height = 8
+Hellen Champ
+Ontoria, Canada
+     --- Node height = 6
+Jamal Vanausdal
+Cairo, Egypt
+     --- Node height = 0
+James Butt
+New Orleans, Orleans
+     --- Node height = 2
+Josephine Darakjy
+Livingston,MI
+     --- Node height = 1
+Kanisha Waycott
+Los Angeles,CA
+     --- Node height = 0
+Kate Ray
+Georgetowne
+     --- Node height = 3
+Keith Wilson
+Ashburn, Virginia
+     --- Node height = 5
+Kelly Charles
+Great Falls, West Virginia
+     --- Node height = 0
+Leandro Alameda
+Miami, Florida
+     --- Node height = 1
+Lisha Centini
+Beijing, China
+     --- Node height = 2
+Malinda Hochard
+Khentii Aimag, Mongolia
+     --- Node height = 3
+Marty Mar
+Cricket St, Orlando
+     --- Node height = 4
+Melissa Edwards
+Toledo, Ohio
+     --- Node height = 0
+Michelle Cooper
+Beijing, China
+     --- Node height = 1
+Mira Munnis
+Tarrant,Texas
+     --- Node height = 0
+Nancy West
+London, England
+     --- Node height = 7
+Natalie Fern
+Santa Monica, California
+     --- Node height = 0
+Nelson Mandila
+South Africa
+     --- Node height = 1
+Rasputin Amal
+St. Petersburg, Russia
+     --- Node height = 9
+Richard Gere
+New york, NY
+     --- Node height = 0
+Ricky Manson
+Sacramento, California
+     --- Node height = 1
+Ross Singh
+Sydney, Australia
+     --- Node height = 2
+Stephen Emigh
+Oxford, England
+     --- Node height = 0
+Steve Jobb
+Vienna, Austria
+     --- Node height = 4
+Stevens, Charles T
+San Jose, California
+     --- Node height = 0
+Suzanne Heim
+Lake Oswego, Oregan
+     --- Node height = 1
+Tamar Hoogland,A K 
+Dubai, UAE
+     --- Node height = 0
+Tammara Wardrip
+Venice, Italy
+     --- Node height = 3
+Timothy Mulqueen
+Richmond, Virginia
+     --- Node height = 0
+Tyra Shields
+Dubai, UAE
+     --- Node height = 1
+Wilda Giguere
+Sydney, Australia
+     --- Node height = 2
+
+Tree size = 41
+Number of contacts in addressbook = 41
+press ENTER to continue..
